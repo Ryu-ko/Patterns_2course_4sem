@@ -1,0 +1,15 @@
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\bin\Debug\net6.0\Singletonn.exe
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\bin\Debug\net6.0\Singletonn.deps.json
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\bin\Debug\net6.0\Singletonn.runtimeconfig.json
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\bin\Debug\net6.0\Singletonn.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\bin\Debug\net6.0\Singletonn.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.csproj.AssemblyReference.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.AssemblyInfoInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.AssemblyInfo.cs
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.csproj.CoreCompileInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\refint\Singletonn.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\Singletonn.genruntimeconfig.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Singletonn\Singletonn\obj\Debug\net6.0\ref\Singletonn.dll

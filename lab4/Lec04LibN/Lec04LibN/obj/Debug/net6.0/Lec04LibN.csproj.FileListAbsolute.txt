@@ -1,0 +1,15 @@
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\bin\Debug\net6.0\Lec04LibN.exe
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\bin\Debug\net6.0\Lec04LibN.deps.json
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\bin\Debug\net6.0\Lec04LibN.runtimeconfig.json
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\bin\Debug\net6.0\Lec04LibN.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\bin\Debug\net6.0\Lec04LibN.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.csproj.AssemblyReference.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.AssemblyInfoInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.AssemblyInfo.cs
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.csproj.CoreCompileInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\refint\Lec04LibN.dll
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\Lec04LibN.genruntimeconfig.cache
+F:\.Уник\4 сем\ПП\Лабы\lab4\Lec04LibN\Lec04LibN\obj\Debug\net6.0\ref\Lec04LibN.dll

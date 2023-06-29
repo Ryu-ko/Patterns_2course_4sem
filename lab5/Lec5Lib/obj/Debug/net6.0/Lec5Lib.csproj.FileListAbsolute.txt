@@ -1,0 +1,24 @@
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.deps.json
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.pdb
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.AssemblyReference.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfoInputs.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfo.cs
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.CoreCompileInputs.cache
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\refint\Lec5Lib.dll
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.pdb
+D:\PP_4sem\lab5\Lec5Lib\obj\Debug\net6.0\ref\Lec5Lib.dll
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.deps.json
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.dll
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\bin\Debug\net6.0\Lec5Lib.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.AssemblyReference.cache
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfoInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.AssemblyInfo.cs
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.csproj.CoreCompileInputs.cache
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.dll
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\refint\Lec5Lib.dll
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\Lec5Lib.pdb
+F:\.Уник\4 сем\ПП\Лабы\lab5\Lec5Lib\obj\Debug\net6.0\ref\Lec5Lib.dll
